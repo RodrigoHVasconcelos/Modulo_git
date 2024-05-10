@@ -1,0 +1,85 @@
+h1{
+    text-align: center;
+    
+}
+
+header{
+background-color:#1d1e20;
+color: white;
+font-size: 21px;
+border-radius: 14px;
+} 
+
+.linkportal{
+    text-decoration: none;
+}
+
+
+button{
+    
+    justify-content: space-around;
+    padding: 5px;
+    border-radius: 45px;
+    border: solid;
+}
+
+
+li{
+    
+    text-decoration: none;
+    direction: ltr;
+    list-style-type: none;
+    border-radius: 24px;
+    
+}
+.esportes{
+
+color: rgb(0, 0, 0);
+border-radius: 8px;
+} 
+
+.politica{
+color: rgb(0, 0, 0);
+border-radius: 8px;   
+}
+
+#materia{
+font-weight: bold;
+}
+
+p{
+    font-size: 20px;
+    color: black;
+}
+
+
+div.esportes{
+    background-color: darkseagreen;
+border-radius: 8px;
+}
+
+img.Esportes{
+    border: solid #1d1e20;
+    border-radius: 14px;
+    justify-content: center;
+    margin-top: 8px;
+    background-position: center;
+    background-repeat: repeat;
+    margin: auto 0 auto 0;
+}
+
+div.politica{
+    background-color: rgb(241, 140, 100);
+    border-radius: 8px;
+}
+
+img.politica{
+    height: 200px;
+    border: solid #1d1e20;
+    border-radius: 14px;
+    justify-content: center;
+    margin-top: 8px;
+    background-position: center;
+    background-repeat: repeat;
+    margin: auto 0 auto 0;
+}
