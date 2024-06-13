@@ -1,0 +1,100 @@
+img{
+
+width: 200px;
+}
+
+li{
+    list-style-type: none;
+}
+
+
+
+a{
+text-decoration: none;
+color: black;
+border-radius: 14%;
+
+}
+.botoes{
+display: flex;
+justify-content: center;
+}
+
+button{
+    border-radius: 45px;
+    width: 85px;
+    height: 55px;
+    cursor: pointer;
+}
+
+header{
+    background-color: darkblue;
+    border-radius: 14px;
+    border: solid black;
+    
+}
+
+h1{
+    display: inline;
+    justify-content: center;
+    font-size: 90px;
+    margin-left: 20px;
+font-family: "Schoolbell", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+
+.conteudo{
+    display: flex;
+    justify-content: space-between;     
+    display: inline-block;
+
+}
+
+.imgposter1, .imgposter2, .imgposter3{
+    margin-top: 20px;
+    border: solid black;
+    border-radius: 12px;
+width: 289px;
+}
+
+.s1{
+background-color: moccasin;
+border: solid black;
+border-radius: 12px;
+}
+
+.s2{
+    background-color: cadetblue;
+    border: solid black;
+    border-radius: 12px;
+}
+
+.s3{
+    background-color:coral;
+    border: solid black;
+    border-radius: 12px;
+}
+
+.imgposter1:hover{
+border-color:rgb(18, 33, 238);
+}
+.imgposter2:hover{
+border-color: rgb(236, 36, 236);
+}
+.imgposter3:hover{
+border-color: rgb(12, 241, 50);
+}
+
+.formulario{
+background-color: bisque;
+border-radius: 15px;
+border: solid black ;
+padding: 5px;
+display: flex;
+justify-content: flex-start;
+justify-content: space-between;
+
+}
